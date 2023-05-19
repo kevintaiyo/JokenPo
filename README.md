@@ -1,4 +1,4 @@
-# projetinho
+# Projeto Jogo "JokenPo"
 
 A new Flutter project.
 
