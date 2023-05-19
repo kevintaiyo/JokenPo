@@ -1,4 +1,5 @@
 # Projeto Jogo "JokenPo"
+Usando a tecnologia Flutter, foi feito o antigo jogo JokenPo que jogamos no dia a dia.
 
 A new Flutter project.
 
